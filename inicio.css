@@ -7,20 +7,19 @@ body {
 	margin: 0px;
 	Font-family: roboto;
 	background-color: #437C56;
+	text-decoration: none;
 }
 
 .fundo {
 	background-color: #FFF3CB;
 	border: px solid black;
-	height: 100%;
 	margin-top: 18px;
 	padding-left: px;
 	padding-right: px;
-	padding-bottom: px;
 	margin-left: 18px;
 	margin-right: 18px;
 	border-radius: 10px;;
-	margin-bottom: 18px;
+	margin-bottom: 0px;
 }
 
 .logo img {
@@ -47,16 +46,19 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	color: #437C56;
+	text-decoration: none;
 }
 
 h3 {
 	margin-top: 1px;
 	margin-bottom: 1px;
 	text-align: center;
+	text-decoration: none;
 }
 
 h4 {
 	margin-top: 1px;
 	margin-bottom: 1px;
 	text-align: center;
+	text-decoration: none;
 }
