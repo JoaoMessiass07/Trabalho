@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2? family= Pacifico & family= Roboto & display=swap');
+
+body {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	Font-family: roboto;
+	background-color: #437C56;
+}
+
+.set img {
+	border: px solid black ;
+	background-color: #437C56;
+	width: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	padding-left: 25px;
+	border-bottom-right-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+.fundo {
+	background-color: #FFF3CB;
+	border: px solid black;
+	height: 94%;
+	margin-top: 18px;
+	padding-left: px;
+	padding-right: px;
+	padding-bottom: px;
+	margin-left: 18px;
+	margin-right: 18px;
+	border-radius: 10px;;
+	margin-bottom: 18px;
+}
+
+.logo img {
+	padding: 0px;
+	padding-top: 0px;
+	display: flex;
+	flex-direction: row;
+	margin-top: -25px;
+}
+
+.logo {
+	padding: 0px;
+	padding-top: 0px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.texto {
+	color: #437C56;
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+	justify-content: center;
+}
+
+.titulo {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.botaoo {
+	border: px solid black;
+	height: 40px;
+	text-align: center;
+	padding: 5px;
+	padding-top: 15px;
+	margin-left: 30%;
+	margin-right: 30%;
+	background-color: #ABD1AC;
+	border-radius: 20px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding-bottom: px;
+}
+
+.botaoo a {
+	text-decoration: none;
+	color: #325D40;
+	font-size: 18px;
+}
+
+h3 {
+	margin-top: 0;
+	margin-bottom: 48px;
+}
+
+h1 {
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
