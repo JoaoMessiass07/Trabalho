@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2? family= Pacifico & family= Roboto & display=swap');
 
 body {
-	position: relative;
+	position: absolute;
 	width: 100%;
 	height: 100%;
 	margin: 0px;
-	padding: 0px;
 	Font-family: roboto;
 	background-color: #437C56;
 }
